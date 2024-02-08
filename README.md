@@ -5,7 +5,7 @@ In the provided code, we implement the lower bound using the information relaxat
 
 <table align="center">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/wenqian-xing/AOD-Lower-Bound/main/real_case.png" alt="Simplified Small-Sized Example" style="width:100%; max-width: 400px;"></td>
+    <td><img src="https://raw.githubusercontent.com/wenqian-xing/AOD-Lower-Bound/main/real_case.png" alt="Simplified Small-Sized Example" style="width:95%; max-width: 400px;"></td>
     <td><img src="https://raw.githubusercontent.com/wenqian-xing/AOD-Lower-Bound/main/toy_example.png" alt="St. Paul, MN Case Study" style="width:100%; max-width: 400px;"></td>
   </tr>
   <tr>
